@@ -25,6 +25,7 @@ body {
 #or {
     text-align: center;
     font-family: 'Mr Dafoe', cursive;
+    color: grey;
 }
 
 #not {
@@ -35,6 +36,7 @@ body {
 
 #OHMS {
     text-align: center;
+    color: grey;
 }
 
 .container {
