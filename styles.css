@@ -17,7 +17,7 @@ body {
 }
 
 #hot {
-    margin-left: 35%;
+    margin-left: 40%;
     font-family: 'Bungee Shade', cursive;
     color: rgb(255, 0, 0);
 }
@@ -78,4 +78,11 @@ img {
 .container div {
     display: flex;
     flex-direction: column;
+}
+
+@media screen and (max-width: 600px) {
+    #hot{
+        margin-left: 35%;
+    }
+    
 }
