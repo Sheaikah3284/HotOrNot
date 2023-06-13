@@ -1,3 +1,10 @@
+function getCurrentURL() {
+	return window.location.href;
+}
+
+// Example
+const baseUrl = getCurrentURL();
+
 let headersList = {
 	Accept: "*/*",
 	"User-Agent": "Thunder Client (https://www.thunderclient.com)",
@@ -7,7 +14,7 @@ const leftPic = document.querySelector("#leftPic");
 console.log(leftPic);
 const rightPic = document.querySelector("#rightPic");
 
-fetch("http://127.0.0.1/startRating", {
+fetch(baseUrl + "/startRating", {
 	method: "POST",
 	headers: headersList,
 }).then((res) => {
@@ -43,7 +50,7 @@ function updateRating(winner, loser) {
 		loser: loser,
 	});
 
-	fetch("http://127.0.0.1/rate", {
+	fetch(baseUrl + "/rate", {
 		method: "POST",
 		body: bodyContent,
 		headers: headersList,
