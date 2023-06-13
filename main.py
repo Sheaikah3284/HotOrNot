@@ -4,7 +4,7 @@ from rating import startRating as initRating, rate as rateGirls
 from ranking import generate_rankings
 
 app = flask.Flask(__name__)
-app.config["PORT"] = 80
+
 
 
 @app.route('/', methods=['GET'])
@@ -38,4 +38,4 @@ def getRankings():
     return flask.jsonify(rankings)
 
 
-app.run(port=app.config["PORT"])
+app.run()
