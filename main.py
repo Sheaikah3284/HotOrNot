@@ -1,10 +1,10 @@
 import flask
+from threading import Thread
 
 from rating import startRating as initRating, rate as rateGirls
 from ranking import generate_rankings
 
 app = flask.Flask(__name__)
-
 
 
 @app.route('/', methods=['GET'])
@@ -38,4 +38,14 @@ def getRankings():
     return flask.jsonify(rankings)
 
 
-app.run()
+def run():
+    app.run(port="80", host="0.0.0.0")
+
+
+def keep_alive():
+    server = Thread(target=run)
+    server.start()
+
+
+if __name__ == "__main__":
+    keep_alive()

@@ -7,7 +7,7 @@ const leftPic = document.querySelector("#leftPic");
 console.log(leftPic);
 const rightPic = document.querySelector("#rightPic");
 
-fetch("http://localhost:5000/startRating", {
+fetch("http://127.0.0.1/startRating", {
 	method: "POST",
 	headers: headersList,
 }).then((res) => {
@@ -43,7 +43,7 @@ function updateRating(winner, loser) {
 		loser: loser,
 	});
 
-	fetch("http://localhost:5000/rate", {
+	fetch("http://127.0.0.1/rate", {
 		method: "POST",
 		body: bodyContent,
 		headers: headersList,

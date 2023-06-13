@@ -1,874 +1,874 @@
 {
-    "List": [
-        {
-            "Name": "Leah",
-            "LastName": "Vanderlinden",
-            "imgDir": "photos/unassigned/female/LeahVanderlinden.png",
-            "ratings": 996.189909581956
-        },
-        {
-            "Name": "Molly",
-            "LastName": "Shade",
-            "imgDir": "photos/unassigned/female/MollyShade.png",
-            "ratings": 879.5236846615901
-        },
-        {
-            "Name": "Kenzie",
-            "LastName": "Gubler",
-            "imgDir": "photos/unassigned/female/KenzieGubler.png",
-            "ratings": 965.6831398146147
-        },
-        {
-            "Name": "Brooklynn",
-            "LastName": "Steiner",
-            "imgDir": "photos/unassigned/female/BrooklynnSteiner.png",
-            "ratings": 1201.8196796769723
-        },
-        {
-            "Name": "Teresa",
-            "LastName": "Clark",
-            "imgDir": "photos/unassigned/female/TeresaClark.png",
-            "ratings": 1114.8626415862407
-        },
-        {
-            "Name": "Layla",
-            "LastName": "Anderson",
-            "imgDir": "photos/unassigned/female/LaylaAnderson.png",
-            "ratings": 995.2268800970069
-        },
-        {
-            "Name": "Bonita",
-            "LastName": "McPhee",
-            "imgDir": "photos/unassigned/female/BonitaMcPhee.png",
-            "ratings": 1134.0726931689708
-        },
-        {
-            "Name": "Anjali",
-            "LastName": "Covington",
-            "imgDir": "photos/unassigned/female/AnjaliCovington.png",
-            "ratings": 817.1293811675588
-        },
-        {
-            "Name": "Alli",
-            "LastName": "Erickson",
-            "imgDir": "photos/unassigned/female/AlliErickson.png",
-            "ratings": 949.8099434178973
-        },
-        {
-            "Name": "Brooklyn",
-            "LastName": "Carson",
-            "imgDir": "photos/unassigned/female/BrooklynCarson.png",
-            "ratings": 1148.7609176207336
-        },
-        {
-            "Name": "Morgan",
-            "LastName": "Ashton",
-            "imgDir": "photos/unassigned/female/MorganAshton.png",
-            "ratings": 1035.9866056158485
-        },
-        {
-            "Name": "Elena",
-            "LastName": "McGee",
-            "imgDir": "photos/unassigned/female/ElenaMcGee.png",
-            "ratings": 971.7880084694217
-        },
-        {
-            "Name": "Quincey",
-            "LastName": "Holland",
-            "imgDir": "photos/unassigned/female/QuinceyHolland.png",
-            "ratings": 999.2312835777249
-        },
-        {
-            "Name": "Elyse",
-            "LastName": "Wahiin",
-            "imgDir": "photos/unassigned/female/ElyseWahiin.png",
-            "ratings": 1036.8429371758407
-        },
-        {
-            "Name": "Sarah",
-            "LastName": "Horner",
-            "imgDir": "photos/unassigned/female/SarahHorner.png",
-            "ratings": 1033.4331540945407
-        },
-        {
-            "Name": "Lovia",
-            "LastName": "Lugo",
-            "imgDir": "photos/unassigned/female/LoviaLugo.png",
-            "ratings": 1108.5842728087437
-        },
-        {
-            "Name": "Felicity",
-            "LastName": "Baldwin",
-            "imgDir": "photos/unassigned/female/FelicityBaldwin.png",
-            "ratings": 1006.2230443344266
-        },
-        {
-            "Name": "Nevica",
-            "LastName": "Nuttall",
-            "imgDir": "photos/unassigned/female/NevicaNuttall.png",
-            "ratings": 1054.5106845533332
-        },
-        {
-            "Name": "Mailey",
-            "LastName": "Eyre",
-            "imgDir": "photos/unassigned/female/MaileyEyre.png",
-            "ratings": 1110.8879621175724
-        },
-        {
-            "Name": "Braelyn",
-            "LastName": "Campbell",
-            "imgDir": "photos/unassigned/female/BraelynCampbell.png",
-            "ratings": 1067.0904477808594
-        },
-        {
-            "Name": "Niccia",
-            "LastName": "Gambino",
-            "imgDir": "photos/unassigned/female/NicciaGambino.png",
-            "ratings": 1109.142363290096
-        },
-        {
-            "Name": "Kenadie",
-            "LastName": "Le",
-            "imgDir": "photos/unassigned/female/KenadieLe.png",
-            "ratings": 997.5130111210684
-        },
-        {
-            "Name": "Riley",
-            "LastName": "Bleak",
-            "imgDir": "photos/unassigned/female/RileyBleak.png",
-            "ratings": 867.0891571546292
-        },
-        {
-            "Name": "Jenica",
-            "LastName": "Judd",
-            "imgDir": "photos/unassigned/female/JenicaJudd.png",
-            "ratings": 1090.6292323390196
-        },
-        {
-            "Name": "Brynlee",
-            "LastName": "Mackay",
-            "imgDir": "photos/unassigned/female/BrynleeMackay.png",
-            "ratings": 1003.6228375569782
-        },
-        {
-            "Name": "Natasha",
-            "LastName": "Cayias",
-            "imgDir": "photos/unassigned/female/NatashaCayias.png",
-            "ratings": 908.3986865757875
-        },
-        {
-            "Name": "Sydnee",
-            "LastName": "Sharp",
-            "imgDir": "photos/unassigned/female/SydneeSharp.png",
-            "ratings": 1092.1349940560513
-        },
-        {
-            "Name": "Jayde",
-            "LastName": "Horrocks",
-            "imgDir": "photos/unassigned/female/JaydeHorrocks.png",
-            "ratings": 929.9574607292143
-        },
-        {
-            "Name": "Elyse",
-            "LastName": "Osborn",
-            "imgDir": "photos/unassigned/female/ElyseOsborn.png",
-            "ratings": 892.3952801452119
-        },
-        {
-            "Name": "Grace",
-            "LastName": "Leary",
-            "imgDir": "photos/unassigned/female/GraceLeary.png",
-            "ratings": 960.5675241806609
-        },
-        {
-            "Name": "Chavez",
-            "LastName": "Solorzano",
-            "imgDir": "photos/unassigned/female/ChavezSolorzano.png",
-            "ratings": 999.5595382066992
-        },
-        {
-            "Name": "Taylor",
-            "LastName": "Ferrin",
-            "imgDir": "photos/unassigned/female/TaylorFerrin.png",
-            "ratings": 949.0656396844706
-        },
-        {
-            "Name": "Bailey",
-            "LastName": "Appel",
-            "imgDir": "photos/unassigned/female/BaileyAppel.png",
-            "ratings": 1090.9566918562095
-        },
-        {
-            "Name": "Nesa",
-            "LastName": "Tatireta",
-            "imgDir": "photos/unassigned/female/NesaTatireta.png",
-            "ratings": 1007.0273032255452
-        },
-        {
-            "Name": "Brook",
-            "LastName": "Stallings",
-            "imgDir": "photos/unassigned/female/BrookStallings.png",
-            "ratings": 1021.3947451835754
-        },
-        {
-            "Name": "Sophia",
-            "LastName": "Schofeild",
-            "imgDir": "photos/unassigned/female/SophiaSchofeild.png",
-            "ratings": 1004.1217898085575
-        },
-        {
-            "Name": "Sadie",
-            "LastName": "KirkHam",
-            "imgDir": "photos/unassigned/female/SadieKirkHam.png",
-            "ratings": 1028.5458603158638
-        },
-        {
-            "Name": "Chloe",
-            "LastName": "Erramouspe",
-            "imgDir": "photos/unassigned/female/ChloeErramouspe.png",
-            "ratings": 969.7465521331848
-        },
-        {
-            "Name": "A",
-            "LastName": "DdisonHutchison",
-            "imgDir": "photos/unassigned/female/ADdisonHutchison.png",
-            "ratings": 965.6171973486663
-        },
-        {
-            "Name": "Taydence",
-            "LastName": "Darger",
-            "imgDir": "photos/unassigned/female/TaydenceDarger.png",
-            "ratings": 927.4451143160887
-        },
-        {
-            "Name": "Nyah",
-            "LastName": "Nalder",
-            "imgDir": "photos/unassigned/female/NyahNalder.png",
-            "ratings": 1016.5123193872851
-        },
-        {
-            "Name": "Abigayle",
-            "LastName": "Smith",
-            "imgDir": "photos/unassigned/female/AbigayleSmith.png",
-            "ratings": 890.9343363294537
-        },
-        {
-            "Name": "Kennedi",
-            "LastName": "Edwards",
-            "imgDir": "photos/unassigned/female/KennediEdwards.png",
-            "ratings": 1126.244248375821
-        },
-        {
-            "Name": "Audrey",
-            "LastName": "Bluth",
-            "imgDir": "photos/unassigned/female/AudreyBluth.png",
-            "ratings": 834.4368476593377
-        },
-        {
-            "Name": "Mia",
-            "LastName": "Killian",
-            "imgDir": "photos/unassigned/female/MiaKillian.png",
-            "ratings": 946.4801357756677
-        },
-        {
-            "Name": "Kylie",
-            "LastName": "Baldwin",
-            "imgDir": "photos/unassigned/female/KylieBaldwin.png",
-            "ratings": 984.5196035398069
-        },
-        {
-            "Name": "Lucy",
-            "LastName": "Lovell",
-            "imgDir": "photos/unassigned/female/LucyLovell.png",
-            "ratings": 941.116363269292
-        },
-        {
-            "Name": "Averie",
-            "LastName": "Bevan",
-            "imgDir": "photos/unassigned/female/AverieBevan.png",
-            "ratings": 1052.8794653634784
-        },
-        {
-            "Name": "Madison",
-            "LastName": "Burgoyne",
-            "imgDir": "photos/unassigned/female/MadisonBurgoyne.png",
-            "ratings": 965.7702160576679
-        },
-        {
-            "Name": "Emelia",
-            "LastName": "Bleak",
-            "imgDir": "photos/unassigned/female/EmeliaBleak.png",
-            "ratings": 1040.0320353965044
-        },
-        {
-            "Name": "Nesia",
-            "LastName": "Lam",
-            "imgDir": "photos/unassigned/female/NesiaLam.png",
-            "ratings": 1035.8771250866328
-        },
-        {
-            "Name": "Keelyn",
-            "LastName": "Hill",
-            "imgDir": "photos/unassigned/female/KeelynHill.png",
-            "ratings": 948.5861271470214
-        },
-        {
-            "Name": "Ellie",
-            "LastName": "Nordberg",
-            "imgDir": "photos/unassigned/female/EllieNordberg.png",
-            "ratings": 984.354178486265
-        },
-        {
-            "Name": "Alivia",
-            "LastName": "Glazier",
-            "imgDir": "photos/unassigned/female/AliviaGlazier.png",
-            "ratings": 1079.569129181701
-        },
-        {
-            "Name": "Presley",
-            "LastName": "Howard",
-            "imgDir": "photos/unassigned/female/PresleyHoward.png",
-            "ratings": 1029.7957070904126
-        },
-        {
-            "Name": "Alexis",
-            "LastName": "Sundblom",
-            "imgDir": "photos/unassigned/female/AlexisSundblom.png",
-            "ratings": 990.4969177891256
-        },
-        {
-            "Name": "Briahna",
-            "LastName": "Sayer",
-            "imgDir": "photos/unassigned/female/BriahnaSayer.png",
-            "ratings": 831.0735873222025
-        },
-        {
-            "Name": "Hayden",
-            "LastName": "Ewing",
-            "imgDir": "photos/unassigned/female/HaydenEwing.png",
-            "ratings": 1071.0797915393257
-        },
-        {
-            "Name": "Halle",
-            "LastName": "Ferguson",
-            "imgDir": "photos/unassigned/female/HalleFerguson.png",
-            "ratings": 1091.8122941489148
-        },
-        {
-            "Name": "Gabrielle",
-            "LastName": "Lunt",
-            "imgDir": "photos/unassigned/female/GabrielleLunt.png",
-            "ratings": 1038.7441087785828
-        },
-        {
-            "Name": "Saige",
-            "LastName": "Mabey",
-            "imgDir": "photos/unassigned/female/SaigeMabey.png",
-            "ratings": 822.0529096529924
-        },
-        {
-            "Name": "Addison",
-            "LastName": "Pack",
-            "imgDir": "photos/unassigned/female/AddisonPack.png",
-            "ratings": 1090.4914345258426
-        },
-        {
-            "Name": "Makaylin",
-            "LastName": "Clark",
-            "imgDir": "photos/unassigned/female/MakaylinClark.png",
-            "ratings": 935.8746292295193
-        },
-        {
-            "Name": "Marissa",
-            "LastName": "Kluesner",
-            "imgDir": "photos/unassigned/female/MarissaKluesner.png",
-            "ratings": 975.7384975645656
-        },
-        {
-            "Name": "Halle",
-            "LastName": "Johns",
-            "imgDir": "photos/unassigned/female/HalleJohns.png",
-            "ratings": 1085.7695733240919
-        },
-        {
-            "Name": "Claire",
-            "LastName": "Anderson",
-            "imgDir": "photos/unassigned/female/ClaireAnderson.png",
-            "ratings": 992.7169711295088
-        },
-        {
-            "Name": "Jobelky",
-            "LastName": "IsaBellBaltdanTenore",
-            "imgDir": "photos/unassigned/female/JobelkyIsaBellBaltdanTenore.png",
-            "ratings": 999.2372171925049
-        },
-        {
-            "Name": "Kylee",
-            "LastName": "Nelson",
-            "imgDir": "photos/unassigned/female/KyleeNelson.png",
-            "ratings": 1065.483264123121
-        },
-        {
-            "Name": "Cherie",
-            "LastName": "Fuller",
-            "imgDir": "photos/unassigned/female/CherieFuller.png",
-            "ratings": 891.9430591577991
-        },
-        {
-            "Name": "Eliza",
-            "LastName": "McQuivey",
-            "imgDir": "photos/unassigned/female/ElizaMcQuivey.png",
-            "ratings": 908.1454652395871
-        },
-        {
-            "Name": "Brielle",
-            "LastName": "Stevens",
-            "imgDir": "photos/unassigned/female/BrielleStevens.png",
-            "ratings": 975.3519309746808
-        },
-        {
-            "Name": "Bailee",
-            "LastName": "Jessop",
-            "imgDir": "photos/unassigned/female/BaileeJessop.png",
-            "ratings": 1009.4293299089304
-        },
-        {
-            "Name": "Breanne",
-            "LastName": "MacKay",
-            "imgDir": "photos/unassigned/female/BreanneMacKay.png",
-            "ratings": 1090.0614140959847
-        },
-        {
-            "Name": "Emma",
-            "LastName": "Glenn",
-            "imgDir": "photos/unassigned/female/EmmaGlenn.png",
-            "ratings": 929.5222743857972
-        },
-        {
-            "Name": "Alyssa",
-            "LastName": "Bryant",
-            "imgDir": "photos/unassigned/female/AlyssaBryant.png",
-            "ratings": 964.5896433022981
-        },
-        {
-            "Name": "Melayne",
-            "LastName": "Johnson",
-            "imgDir": "photos/unassigned/female/MelayneJohnson.png",
-            "ratings": 923.2509622942237
-        },
-        {
-            "Name": "Hailey",
-            "LastName": "Martin",
-            "imgDir": "photos/unassigned/female/HaileyMartin.png",
-            "ratings": 951.9061828192156
-        },
-        {
-            "Name": "Katrina",
-            "LastName": "Vu",
-            "imgDir": "photos/unassigned/female/KatrinaVu.png",
-            "ratings": 1002.0199505587046
-        },
-        {
-            "Name": "Oakli",
-            "LastName": "Lefranc",
-            "imgDir": "photos/unassigned/female/OakliLefranc.png",
-            "ratings": 1091.119242583847
-        },
-        {
-            "Name": "Kaylee",
-            "LastName": "Albrecht",
-            "imgDir": "photos/unassigned/female/KayleeAlbrecht.png",
-            "ratings": 1099.9661489812981
-        },
-        {
-            "Name": "Lucy",
-            "LastName": "Hunter",
-            "imgDir": "photos/unassigned/female/LucyHunter.png",
-            "ratings": 952.9644907006718
-        },
-        {
-            "Name": "Elly",
-            "LastName": "Mitchell",
-            "imgDir": "photos/unassigned/female/EllyMitchell.png",
-            "ratings": 996.5342231366894
-        },
-        {
-            "Name": "Nisa",
-            "LastName": "Jnekins",
-            "imgDir": "photos/unassigned/female/NisaJnekins.png",
-            "ratings": 916.9659952395124
-        },
-        {
-            "Name": "Alizae",
-            "LastName": "Ortiz",
-            "imgDir": "photos/unassigned/female/AlizaeOrtiz.png",
-            "ratings": 922.4161184793651
-        },
-        {
-            "Name": "Nevaeh",
-            "LastName": "Carter",
-            "imgDir": "photos/unassigned/female/NevaehCarter.png",
-            "ratings": 865.154276874773
-        },
-        {
-            "Name": "Savannah",
-            "LastName": "Gardner",
-            "imgDir": "photos/unassigned/female/SavannahGardner.png",
-            "ratings": 1132.4462223063265
-        },
-        {
-            "Name": "Brean",
-            "LastName": "McArthur",
-            "imgDir": "photos/unassigned/female/BreanMcArthur.png",
-            "ratings": 994.7140605015115
-        },
-        {
-            "Name": "Sophia",
-            "LastName": "Colby",
-            "imgDir": "photos/unassigned/female/SophiaColby.png",
-            "ratings": 1077.6020444333462
-        },
-        {
-            "Name": "Alanna",
-            "LastName": "Madrid",
-            "imgDir": "photos/unassigned/female/AlannaMadrid.png",
-            "ratings": 1083.4401596563293
-        },
-        {
-            "Name": "Amina",
-            "LastName": "Toailoa",
-            "imgDir": "photos/unassigned/female/AminaToailoa.png",
-            "ratings": 1113.8624525453026
-        },
-        {
-            "Name": "Demille",
-            "LastName": "TessaEllis",
-            "imgDir": "photos/unassigned/female/DemilleTessaEllis.png",
-            "ratings": 1112.286178104504
-        },
-        {
-            "Name": "Peyton",
-            "LastName": "KaiThomsen",
-            "imgDir": "photos/unassigned/female/PeytonKaiThomsen.png",
-            "ratings": 1038.137674794287
-        },
-        {
-            "Name": "Annalyn",
-            "LastName": "Arvidson",
-            "imgDir": "photos/unassigned/female/AnnalynArvidson.png",
-            "ratings": 1033.202625580132
-        },
-        {
-            "Name": "Riley",
-            "LastName": "Blake",
-            "imgDir": "photos/unassigned/female/RileyBlake.png",
-            "ratings": 893.7267505475776
-        },
-        {
-            "Name": "Megan",
-            "LastName": "Boden",
-            "imgDir": "photos/unassigned/female/MeganBoden.png",
-            "ratings": 1082.9107404288327
-        },
-        {
-            "Name": "Olivia",
-            "LastName": "Terry",
-            "imgDir": "photos/unassigned/female/OliviaTerry.png",
-            "ratings": 929.8826009163499
-        },
-        {
-            "Name": "Amanda",
-            "LastName": "Madsen",
-            "imgDir": "photos/unassigned/female/AmandaMadsen.png",
-            "ratings": 1071.7628886631117
-        },
-        {
-            "Name": "Lyla",
-            "LastName": "Nelson",
-            "imgDir": "photos/unassigned/female/LylaNelson.png",
-            "ratings": 977.2551244036894
-        },
-        {
-            "Name": "Kathryn",
-            "LastName": "Nunley",
-            "imgDir": "photos/unassigned/female/KathrynNunley.png",
-            "ratings": 1016.943390788397
-        },
-        {
-            "Name": "Cate",
-            "LastName": "Allen",
-            "imgDir": "photos/unassigned/female/CateAllen.png",
-            "ratings": 1001.0261794708892
-        },
-        {
-            "Name": "Lilly",
-            "LastName": "Bleak",
-            "imgDir": "photos/unassigned/female/LillyBleak.png",
-            "ratings": 917.3284009826126
-        },
-        {
-            "Name": "Emree",
-            "LastName": "Beins",
-            "imgDir": "photos/unassigned/female/EmreeBeins.png",
-            "ratings": 1038.8178051170598
-        },
-        {
-            "Name": "Kinley",
-            "LastName": "Smith",
-            "imgDir": "photos/unassigned/female/KinleySmith.png",
-            "ratings": 1030.617431244519
-        },
-        {
-            "Name": "Zoey",
-            "LastName": "Spencer",
-            "imgDir": "photos/unassigned/female/ZoeySpencer.png",
-            "ratings": 999.7031278557719
-        },
-        {
-            "Name": "Lucas",
-            "LastName": "Hart",
-            "imgDir": "photos/unassigned/female/LucasHart.png",
-            "ratings": 1067.2348191282808
-        },
-        {
-            "Name": "Jenna",
-            "LastName": "Hansen",
-            "imgDir": "photos/unassigned/female/JennaHansen.png",
-            "ratings": 987.854083143786
-        },
-        {
-            "Name": "Ella",
-            "LastName": "Freitas",
-            "imgDir": "photos/unassigned/female/EllaFreitas.png",
-            "ratings": 965.7318410934646
-        },
-        {
-            "Name": "Elizabeth",
-            "LastName": "Burget",
-            "imgDir": "photos/unassigned/female/ElizabethBurget.png",
-            "ratings": 945.9148735883275
-        },
-        {
-            "Name": "Bentlee",
-            "LastName": "Keele",
-            "imgDir": "photos/unassigned/female/BentleeKeele.png",
-            "ratings": 1067.8400212044435
-        },
-        {
-            "Name": "Alexis",
-            "LastName": "Larsen",
-            "imgDir": "photos/unassigned/female/AlexisLarsen.png",
-            "ratings": 970.9365318597487
-        },
-        {
-            "Name": "Brnn",
-            "LastName": "Locher",
-            "imgDir": "photos/unassigned/female/BrnnLocher.png",
-            "ratings": 1053.252072948238
-        },
-        {
-            "Name": "Halyn",
-            "LastName": "Ferguson",
-            "imgDir": "photos/unassigned/female/HalynFerguson.png",
-            "ratings": 981.0369657882914
-        },
-        {
-            "Name": "Mater",
-            "LastName": "Shep",
-            "imgDir": "photos/unassigned/female/MaterShep.png",
-            "ratings": 985.1139441810641
-        },
-        {
-            "Name": "Maci",
-            "LastName": "James",
-            "imgDir": "photos/unassigned/female/MaciJames.png",
-            "ratings": 891.3415221147679
-        },
-        {
-            "Name": "Paige",
-            "LastName": "Dailey",
-            "imgDir": "photos/unassigned/female/PaigeDailey.png",
-            "ratings": 1032.7017536044095
-        },
-        {
-            "Name": "Kate",
-            "LastName": "Cowley",
-            "imgDir": "photos/unassigned/female/KateCowley.png",
-            "ratings": 1160.8761603581977
-        },
-        {
-            "Name": "Camrn",
-            "LastName": "Morre",
-            "imgDir": "photos/unassigned/female/CamrnMorre.png",
-            "ratings": 996.0042039117654
-        },
-        {
-            "Name": "Watwe",
-            "LastName": "MariaInfante",
-            "imgDir": "photos/unassigned/female/WatweMariaInfante.png",
-            "ratings": 961.0744958999217
-        },
-        {
-            "Name": "Nora",
-            "LastName": "Jackson",
-            "imgDir": "photos/unassigned/female/NoraJackson.png",
-            "ratings": 1089.3494761982954
-        },
-        {
-            "Name": "Samantha",
-            "LastName": "Christensen",
-            "imgDir": "photos/unassigned/female/SamanthaChristensen.png",
-            "ratings": 1094.114952962135
-        },
-        {
-            "Name": "Serenity",
-            "LastName": "Nguyen",
-            "imgDir": "photos/unassigned/female/SerenityNguyen.png",
-            "ratings": 1075.4133790915628
-        },
-        {
-            "Name": "Brooke",
-            "LastName": "Metcalf",
-            "imgDir": "photos/unassigned/female/BrookeMetcalf.png",
-            "ratings": 850.9793431774114
-        },
-        {
-            "Name": "Jane",
-            "LastName": "Taylor",
-            "imgDir": "photos/unassigned/female/JaneTaylor.png",
-            "ratings": 943.1543305123024
-        },
-        {
-            "Name": "Eliza",
-            "LastName": "Manwill",
-            "imgDir": "photos/unassigned/female/ElizaManwill.png",
-            "ratings": 930.008578562734
-        },
-        {
-            "Name": "F",
-            "LastName": "Pets",
-            "imgDir": "photos/unassigned/female/FPets.png",
-            "ratings": 1019.3768978416321
-        },
-        {
-            "Name": "Madelynn",
-            "LastName": "Packer",
-            "imgDir": "photos/unassigned/female/MadelynnPacker.png",
-            "ratings": 925.6003108196054
-        },
-        {
-            "Name": "Brooklyn",
-            "LastName": "Delzer",
-            "imgDir": "photos/unassigned/female/BrooklynDelzer.png",
-            "ratings": 1104.3242593199604
-        },
-        {
-            "Name": "Delaney",
-            "LastName": "Anderson",
-            "imgDir": "photos/unassigned/female/DelaneyAnderson.png",
-            "ratings": 1000
-        },
-        {
-            "Name": "Teva",
-            "LastName": "Johnson",
-            "imgDir": "photos/unassigned/female/TevaJohnson.png",
-            "ratings": 1102.7946283567662
-        },
-        {
-            "Name": "Julia",
-            "LastName": "Bergquist",
-            "imgDir": "photos/unassigned/female/JuliaBergquist.png",
-            "ratings": 926.4938011612661
-        },
-        {
-            "Name": "Jane",
-            "LastName": "Smith",
-            "imgDir": "photos/unassigned/female/JaneSmith.png",
-            "ratings": 1046.619824932869
-        },
-        {
-            "Name": "Elizabeth",
-            "LastName": "Davidson",
-            "imgDir": "photos/unassigned/female/ElizabethDavidson.png",
-            "ratings": 1075.2686584836647
-        },
-        {
-            "Name": "Leeah",
-            "LastName": "Mangum",
-            "imgDir": "photos/unassigned/female/LeeahMangum.png",
-            "ratings": 849.2054218651369
-        },
-        {
-            "Name": "S",
-            "LastName": "KyeJensen",
-            "imgDir": "photos/unassigned/female/SKyeJensen.png",
-            "ratings": 1039.1155809357895
-        },
-        {
-            "Name": "Chloe",
-            "LastName": "Bodell",
-            "imgDir": "photos/unassigned/female/ChloeBodell.png",
-            "ratings": 962.9694822178694
-        },
-        {
-            "Name": "Kendra",
-            "LastName": "Corley",
-            "imgDir": "photos/unassigned/female/KendraCorley.png",
-            "ratings": 962.6717070276432
-        },
-        {
-            "Name": "Samria",
-            "LastName": "Hammon",
-            "imgDir": "photos/unassigned/female/SamriaHammon.png",
-            "ratings": 887.2392025254894
-        },
-        {
-            "Name": "A",
-            "LastName": "DalynCox",
-            "imgDir": "photos/unassigned/female/ADalynCox.png",
-            "ratings": 1036.5549015749536
-        },
-        {
-            "Name": "Calli",
-            "LastName": "Chandler",
-            "imgDir": "photos/unassigned/female/CalliChandler.png",
-            "ratings": 1073.0343681078987
-        },
-        {
-            "Name": "Coltonr",
-            "LastName": "Bennett",
-            "imgDir": "photos/unassigned/female/ColtonrBennett.png",
-            "ratings": 861.4537686441266
-        },
-        {
-            "Name": "Berlin",
-            "LastName": "Cox",
-            "imgDir": "photos/unassigned/female/BerlinCox.png",
-            "ratings": 848.7663519422795
-        },
-        {
-            "Name": "Aurora",
-            "LastName": "Silver",
-            "imgDir": "photos/unassigned/female/AuroraSilver.png",
-            "ratings": 984.0224489114348
-        },
-        {
-            "Name": "Alessa",
-            "LastName": "Montoya",
-            "imgDir": "photos/unassigned/female/AlessaMontoya.png",
-            "ratings": 1106.220653288192
-        },
-        {
-            "Name": "Rebecca",
-            "LastName": "Calkin",
-            "imgDir": "photos/unassigned/female/RebeccaCalkin.png",
-            "ratings": 901.5226389515085
-        },
-        {
-            "Name": "D",
-            "LastName": "AnnaMitchell",
-            "imgDir": "photos/unassigned/female/DAnnaMitchell.png",
-            "ratings": 889.5378916727626
-        }
-    ]
+	"List": [
+		{
+			"Name": "Leah",
+			"LastName": "Vanderlinden",
+			"imgDir": "photos/unassigned/female/LeahVanderlinden.png",
+			"ratings": 996.189909581956
+		},
+		{
+			"Name": "Molly",
+			"LastName": "Shade",
+			"imgDir": "photos/unassigned/female/MollyShade.png",
+			"ratings": 895.2354590933396
+		},
+		{
+			"Name": "Kenzie",
+			"LastName": "Gubler",
+			"imgDir": "photos/unassigned/female/KenzieGubler.png",
+			"ratings": 965.6831398146147
+		},
+		{
+			"Name": "Brooklynn",
+			"LastName": "Steiner",
+			"imgDir": "photos/unassigned/female/BrooklynnSteiner.png",
+			"ratings": 1201.8196796769723
+		},
+		{
+			"Name": "Teresa",
+			"LastName": "Clark",
+			"imgDir": "photos/unassigned/female/TeresaClark.png",
+			"ratings": 1114.8626415862407
+		},
+		{
+			"Name": "Layla",
+			"LastName": "Anderson",
+			"imgDir": "photos/unassigned/female/LaylaAnderson.png",
+			"ratings": 1015.8904891067696
+		},
+		{
+			"Name": "Bonita",
+			"LastName": "McPhee",
+			"imgDir": "photos/unassigned/female/BonitaMcPhee.png",
+			"ratings": 1157.8949658247009
+		},
+		{
+			"Name": "Anjali",
+			"LastName": "Covington",
+			"imgDir": "photos/unassigned/female/AnjaliCovington.png",
+			"ratings": 808.8581532446279
+		},
+		{
+			"Name": "Alli",
+			"LastName": "Erickson",
+			"imgDir": "photos/unassigned/female/AlliErickson.png",
+			"ratings": 931.091004263981
+		},
+		{
+			"Name": "Brooklyn",
+			"LastName": "Carson",
+			"imgDir": "photos/unassigned/female/BrooklynCarson.png",
+			"ratings": 1172.623088803531
+		},
+		{
+			"Name": "Morgan",
+			"LastName": "Ashton",
+			"imgDir": "photos/unassigned/female/MorganAshton.png",
+			"ratings": 1035.9866056158485
+		},
+		{
+			"Name": "Elena",
+			"LastName": "McGee",
+			"imgDir": "photos/unassigned/female/ElenaMcGee.png",
+			"ratings": 948.085710636823
+		},
+		{
+			"Name": "Quincey",
+			"LastName": "Holland",
+			"imgDir": "photos/unassigned/female/QuinceyHolland.png",
+			"ratings": 999.2312835777249
+		},
+		{
+			"Name": "Elyse",
+			"LastName": "Wahiin",
+			"imgDir": "photos/unassigned/female/ElyseWahiin.png",
+			"ratings": 1075.5900372928088
+		},
+		{
+			"Name": "Sarah",
+			"LastName": "Horner",
+			"imgDir": "photos/unassigned/female/SarahHorner.png",
+			"ratings": 1021.8114203730102
+		},
+		{
+			"Name": "Lovia",
+			"LastName": "Lugo",
+			"imgDir": "photos/unassigned/female/LoviaLugo.png",
+			"ratings": 1186.1663226143346
+		},
+		{
+			"Name": "Felicity",
+			"LastName": "Baldwin",
+			"imgDir": "photos/unassigned/female/FelicityBaldwin.png",
+			"ratings": 1025.6831463378792
+		},
+		{
+			"Name": "Nevica",
+			"LastName": "Nuttall",
+			"imgDir": "photos/unassigned/female/NevicaNuttall.png",
+			"ratings": 1054.5106845533332
+		},
+		{
+			"Name": "Mailey",
+			"LastName": "Eyre",
+			"imgDir": "photos/unassigned/female/MaileyEyre.png",
+			"ratings": 1110.8879621175724
+		},
+		{
+			"Name": "Braelyn",
+			"LastName": "Campbell",
+			"imgDir": "photos/unassigned/female/BraelynCampbell.png",
+			"ratings": 1015.2352382406551
+		},
+		{
+			"Name": "Niccia",
+			"LastName": "Gambino",
+			"imgDir": "photos/unassigned/female/NicciaGambino.png",
+			"ratings": 1132.0333294672887
+		},
+		{
+			"Name": "Kenadie",
+			"LastName": "Le",
+			"imgDir": "photos/unassigned/female/KenadieLe.png",
+			"ratings": 997.5130111210684
+		},
+		{
+			"Name": "Riley",
+			"LastName": "Bleak",
+			"imgDir": "photos/unassigned/female/RileyBleak.png",
+			"ratings": 849.10696419784
+		},
+		{
+			"Name": "Jenica",
+			"LastName": "Judd",
+			"imgDir": "photos/unassigned/female/JenicaJudd.png",
+			"ratings": 1071.2294459852674
+		},
+		{
+			"Name": "Brynlee",
+			"LastName": "Mackay",
+			"imgDir": "photos/unassigned/female/BrynleeMackay.png",
+			"ratings": 959.9896062186874
+		},
+		{
+			"Name": "Natasha",
+			"LastName": "Cayias",
+			"imgDir": "photos/unassigned/female/NatashaCayias.png",
+			"ratings": 908.3986865757875
+		},
+		{
+			"Name": "Sydnee",
+			"LastName": "Sharp",
+			"imgDir": "photos/unassigned/female/SydneeSharp.png",
+			"ratings": 1113.5490788127343
+		},
+		{
+			"Name": "Jayde",
+			"LastName": "Horrocks",
+			"imgDir": "photos/unassigned/female/JaydeHorrocks.png",
+			"ratings": 950.9781221466859
+		},
+		{
+			"Name": "Elyse",
+			"LastName": "Osborn",
+			"imgDir": "photos/unassigned/female/ElyseOsborn.png",
+			"ratings": 873.2730472024491
+		},
+		{
+			"Name": "Grace",
+			"LastName": "Leary",
+			"imgDir": "photos/unassigned/female/GraceLeary.png",
+			"ratings": 975.4890228783541
+		},
+		{
+			"Name": "Chavez",
+			"LastName": "Solorzano",
+			"imgDir": "photos/unassigned/female/ChavezSolorzano.png",
+			"ratings": 999.5595382066992
+		},
+		{
+			"Name": "Taylor",
+			"LastName": "Ferrin",
+			"imgDir": "photos/unassigned/female/TaylorFerrin.png",
+			"ratings": 926.174673507278
+		},
+		{
+			"Name": "Bailey",
+			"LastName": "Appel",
+			"imgDir": "photos/unassigned/female/BaileyAppel.png",
+			"ratings": 1095.4617223585885
+		},
+		{
+			"Name": "Nesa",
+			"LastName": "Tatireta",
+			"imgDir": "photos/unassigned/female/NesaTatireta.png",
+			"ratings": 1027.5760306270424
+		},
+		{
+			"Name": "Brook",
+			"LastName": "Stallings",
+			"imgDir": "photos/unassigned/female/BrookStallings.png",
+			"ratings": 1040.1055807860716
+		},
+		{
+			"Name": "Sophia",
+			"LastName": "Schofeild",
+			"imgDir": "photos/unassigned/female/SophiaSchofeild.png",
+			"ratings": 1004.1217898085575
+		},
+		{
+			"Name": "Sadie",
+			"LastName": "KirkHam",
+			"imgDir": "photos/unassigned/female/SadieKirkHam.png",
+			"ratings": 1028.5458603158638
+		},
+		{
+			"Name": "Chloe",
+			"LastName": "Erramouspe",
+			"imgDir": "photos/unassigned/female/ChloeErramouspe.png",
+			"ratings": 924.5101947207718
+		},
+		{
+			"Name": "A",
+			"LastName": "DdisonHutchison",
+			"imgDir": "photos/unassigned/female/ADdisonHutchison.png",
+			"ratings": 1002.6453608350653
+		},
+		{
+			"Name": "Taydence",
+			"LastName": "Darger",
+			"imgDir": "photos/unassigned/female/TaydenceDarger.png",
+			"ratings": 906.5673055516556
+		},
+		{
+			"Name": "Nyah",
+			"LastName": "Nalder",
+			"imgDir": "photos/unassigned/female/NyahNalder.png",
+			"ratings": 1037.6582041030185
+		},
+		{
+			"Name": "Abigayle",
+			"LastName": "Smith",
+			"imgDir": "photos/unassigned/female/AbigayleSmith.png",
+			"ratings": 870.270727319691
+		},
+		{
+			"Name": "Kennedi",
+			"LastName": "Edwards",
+			"imgDir": "photos/unassigned/female/KennediEdwards.png",
+			"ratings": 1148.4314806671634
+		},
+		{
+			"Name": "Audrey",
+			"LastName": "Bluth",
+			"imgDir": "photos/unassigned/female/AudreyBluth.png",
+			"ratings": 813.6728560640881
+		},
+		{
+			"Name": "Mia",
+			"LastName": "Killian",
+			"imgDir": "photos/unassigned/female/MiaKillian.png",
+			"ratings": 946.4801357756677
+		},
+		{
+			"Name": "Kylie",
+			"LastName": "Baldwin",
+			"imgDir": "photos/unassigned/female/KylieBaldwin.png",
+			"ratings": 962.3323712484645
+		},
+		{
+			"Name": "Lucy",
+			"LastName": "Lovell",
+			"imgDir": "photos/unassigned/female/LucyLovell.png",
+			"ratings": 938.0181836817444
+		},
+		{
+			"Name": "Averie",
+			"LastName": "Bevan",
+			"imgDir": "photos/unassigned/female/AverieBevan.png",
+			"ratings": 1052.8794653634784
+		},
+		{
+			"Name": "Madison",
+			"LastName": "Burgoyne",
+			"imgDir": "photos/unassigned/female/MadisonBurgoyne.png",
+			"ratings": 965.7702160576679
+		},
+		{
+			"Name": "Emelia",
+			"LastName": "Bleak",
+			"imgDir": "photos/unassigned/female/EmeliaBleak.png",
+			"ratings": 1040.0320353965044
+		},
+		{
+			"Name": "Nesia",
+			"LastName": "Lam",
+			"imgDir": "photos/unassigned/female/NesiaLam.png",
+			"ratings": 1035.8771250866328
+		},
+		{
+			"Name": "Keelyn",
+			"LastName": "Hill",
+			"imgDir": "photos/unassigned/female/KeelynHill.png",
+			"ratings": 948.5861271470214
+		},
+		{
+			"Name": "Ellie",
+			"LastName": "Nordberg",
+			"imgDir": "photos/unassigned/female/EllieNordberg.png",
+			"ratings": 984.354178486265
+		},
+		{
+			"Name": "Alivia",
+			"LastName": "Glazier",
+			"imgDir": "photos/unassigned/female/AliviaGlazier.png",
+			"ratings": 1127.4383730472132
+		},
+		{
+			"Name": "Presley",
+			"LastName": "Howard",
+			"imgDir": "photos/unassigned/female/PresleyHoward.png",
+			"ratings": 1057.5700271359365
+		},
+		{
+			"Name": "Alexis",
+			"LastName": "Sundblom",
+			"imgDir": "photos/unassigned/female/AlexisSundblom.png",
+			"ratings": 970.5675619105948
+		},
+		{
+			"Name": "Briahna",
+			"LastName": "Sayer",
+			"imgDir": "photos/unassigned/female/BriahnaSayer.png",
+			"ratings": 831.0735873222025
+		},
+		{
+			"Name": "Hayden",
+			"LastName": "Ewing",
+			"imgDir": "photos/unassigned/female/HaydenEwing.png",
+			"ratings": 1071.0797915393257
+		},
+		{
+			"Name": "Halle",
+			"LastName": "Ferguson",
+			"imgDir": "photos/unassigned/female/HalleFerguson.png",
+			"ratings": 1091.8122941489148
+		},
+		{
+			"Name": "Gabrielle",
+			"LastName": "Lunt",
+			"imgDir": "photos/unassigned/female/GabrielleLunt.png",
+			"ratings": 1053.2153933388145
+		},
+		{
+			"Name": "Saige",
+			"LastName": "Mabey",
+			"imgDir": "photos/unassigned/female/SaigeMabey.png",
+			"ratings": 822.0529096529924
+		},
+		{
+			"Name": "Addison",
+			"LastName": "Pack",
+			"imgDir": "photos/unassigned/female/AddisonPack.png",
+			"ratings": 1090.4914345258426
+		},
+		{
+			"Name": "Makaylin",
+			"LastName": "Clark",
+			"imgDir": "photos/unassigned/female/MakaylinClark.png",
+			"ratings": 920.8894111087704
+		},
+		{
+			"Name": "Marissa",
+			"LastName": "Kluesner",
+			"imgDir": "photos/unassigned/female/MarissaKluesner.png",
+			"ratings": 963.524297707807
+		},
+		{
+			"Name": "Halle",
+			"LastName": "Johns",
+			"imgDir": "photos/unassigned/female/HalleJohns.png",
+			"ratings": 1085.7695733240919
+		},
+		{
+			"Name": "Claire",
+			"LastName": "Anderson",
+			"imgDir": "photos/unassigned/female/ClaireAnderson.png",
+			"ratings": 992.7169711295088
+		},
+		{
+			"Name": "Jobelky",
+			"LastName": "IsaBellBaltdanTenore",
+			"imgDir": "photos/unassigned/female/JobelkyIsaBellBaltdanTenore.png",
+			"ratings": 1018.4053040434104
+		},
+		{
+			"Name": "Kylee",
+			"LastName": "Nelson",
+			"imgDir": "photos/unassigned/female/KyleeNelson.png",
+			"ratings": 1082.3511050373493
+		},
+		{
+			"Name": "Cherie",
+			"LastName": "Fuller",
+			"imgDir": "photos/unassigned/female/CherieFuller.png",
+			"ratings": 881.8209352879968
+		},
+		{
+			"Name": "Eliza",
+			"LastName": "McQuivey",
+			"imgDir": "photos/unassigned/female/ElizaMcQuivey.png",
+			"ratings": 870.0713260564401
+		},
+		{
+			"Name": "Brielle",
+			"LastName": "Stevens",
+			"imgDir": "photos/unassigned/female/BrielleStevens.png",
+			"ratings": 954.0862046812633
+		},
+		{
+			"Name": "Bailee",
+			"LastName": "Jessop",
+			"imgDir": "photos/unassigned/female/BaileeJessop.png",
+			"ratings": 1028.1482690628468
+		},
+		{
+			"Name": "Breanne",
+			"LastName": "MacKay",
+			"imgDir": "photos/unassigned/female/BreanneMacKay.png",
+			"ratings": 1090.0614140959847
+		},
+		{
+			"Name": "Emma",
+			"LastName": "Glenn",
+			"imgDir": "photos/unassigned/female/EmmaGlenn.png",
+			"ratings": 928.3363804916809
+		},
+		{
+			"Name": "Alyssa",
+			"LastName": "Bryant",
+			"imgDir": "photos/unassigned/female/AlyssaBryant.png",
+			"ratings": 983.4625016902165
+		},
+		{
+			"Name": "Melayne",
+			"LastName": "Johnson",
+			"imgDir": "photos/unassigned/female/MelayneJohnson.png",
+			"ratings": 879.513862611796
+		},
+		{
+			"Name": "Hailey",
+			"LastName": "Martin",
+			"imgDir": "photos/unassigned/female/HaileyMartin.png",
+			"ratings": 951.9061828192156
+		},
+		{
+			"Name": "Katrina",
+			"LastName": "Vu",
+			"imgDir": "photos/unassigned/female/KatrinaVu.png",
+			"ratings": 1002.0199505587046
+		},
+		{
+			"Name": "Oakli",
+			"LastName": "Lefranc",
+			"imgDir": "photos/unassigned/female/OakliLefranc.png",
+			"ratings": 1091.119242583847
+		},
+		{
+			"Name": "Kaylee",
+			"LastName": "Albrecht",
+			"imgDir": "photos/unassigned/female/KayleeAlbrecht.png",
+			"ratings": 1116.3809568421575
+		},
+		{
+			"Name": "Lucy",
+			"LastName": "Hunter",
+			"imgDir": "photos/unassigned/female/LucyHunter.png",
+			"ratings": 935.4857593535112
+		},
+		{
+			"Name": "Elly",
+			"LastName": "Mitchell",
+			"imgDir": "photos/unassigned/female/EllyMitchell.png",
+			"ratings": 996.5342231366894
+		},
+		{
+			"Name": "Nisa",
+			"LastName": "Jnekins",
+			"imgDir": "photos/unassigned/female/NisaJnekins.png",
+			"ratings": 895.8042590884404
+		},
+		{
+			"Name": "Alizae",
+			"LastName": "Ortiz",
+			"imgDir": "photos/unassigned/female/AlizaeOrtiz.png",
+			"ratings": 922.4161184793651
+		},
+		{
+			"Name": "Nevaeh",
+			"LastName": "Carter",
+			"imgDir": "photos/unassigned/female/NevaehCarter.png",
+			"ratings": 865.154276874773
+		},
+		{
+			"Name": "Savannah",
+			"LastName": "Gardner",
+			"imgDir": "photos/unassigned/female/SavannahGardner.png",
+			"ratings": 1177.8233497017266
+		},
+		{
+			"Name": "Brean",
+			"LastName": "McArthur",
+			"imgDir": "photos/unassigned/female/BreanMcArthur.png",
+			"ratings": 975.0058572015533
+		},
+		{
+			"Name": "Sophia",
+			"LastName": "Colby",
+			"imgDir": "photos/unassigned/female/SophiaColby.png",
+			"ratings": 1097.5314003118772
+		},
+		{
+			"Name": "Alanna",
+			"LastName": "Madrid",
+			"imgDir": "photos/unassigned/female/AlannaMadrid.png",
+			"ratings": 1104.447346793723
+		},
+		{
+			"Name": "Amina",
+			"LastName": "Toailoa",
+			"imgDir": "photos/unassigned/female/AminaToailoa.png",
+			"ratings": 1091.1578814501208
+		},
+		{
+			"Name": "Demille",
+			"LastName": "TessaEllis",
+			"imgDir": "photos/unassigned/female/DemilleTessaEllis.png",
+			"ratings": 1112.286178104504
+		},
+		{
+			"Name": "Peyton",
+			"LastName": "KaiThomsen",
+			"imgDir": "photos/unassigned/female/PeytonKaiThomsen.png",
+			"ratings": 1038.137674794287
+		},
+		{
+			"Name": "Annalyn",
+			"LastName": "Arvidson",
+			"imgDir": "photos/unassigned/female/AnnalynArvidson.png",
+			"ratings": 1096.4349297825595
+		},
+		{
+			"Name": "Riley",
+			"LastName": "Blake",
+			"imgDir": "photos/unassigned/female/RileyBlake.png",
+			"ratings": 893.7267505475776
+		},
+		{
+			"Name": "Megan",
+			"LastName": "Boden",
+			"imgDir": "photos/unassigned/female/MeganBoden.png",
+			"ratings": 1101.1711673430702
+		},
+		{
+			"Name": "Olivia",
+			"LastName": "Terry",
+			"imgDir": "photos/unassigned/female/OliviaTerry.png",
+			"ratings": 910.4224989128973
+		},
+		{
+			"Name": "Amanda",
+			"LastName": "Madsen",
+			"imgDir": "photos/unassigned/female/AmandaMadsen.png",
+			"ratings": 1056.4902823690597
+		},
+		{
+			"Name": "Lyla",
+			"LastName": "Nelson",
+			"imgDir": "photos/unassigned/female/LylaNelson.png",
+			"ratings": 977.2551244036894
+		},
+		{
+			"Name": "Kathryn",
+			"LastName": "Nunley",
+			"imgDir": "photos/unassigned/female/KathrynNunley.png",
+			"ratings": 977.3377469976767
+		},
+		{
+			"Name": "Cate",
+			"LastName": "Allen",
+			"imgDir": "photos/unassigned/female/CateAllen.png",
+			"ratings": 1001.0261794708892
+		},
+		{
+			"Name": "Lilly",
+			"LastName": "Bleak",
+			"imgDir": "photos/unassigned/female/LillyBleak.png",
+			"ratings": 917.3284009826126
+		},
+		{
+			"Name": "Emree",
+			"LastName": "Beins",
+			"imgDir": "photos/unassigned/female/EmreeBeins.png",
+			"ratings": 1038.8178051170598
+		},
+		{
+			"Name": "Kinley",
+			"LastName": "Smith",
+			"imgDir": "photos/unassigned/female/KinleySmith.png",
+			"ratings": 1069.5260370820183
+		},
+		{
+			"Name": "Zoey",
+			"LastName": "Spencer",
+			"imgDir": "photos/unassigned/female/ZoeySpencer.png",
+			"ratings": 999.7031278557719
+		},
+		{
+			"Name": "Lucas",
+			"LastName": "Hart",
+			"imgDir": "photos/unassigned/female/LucasHart.png",
+			"ratings": 1291.7045710951818
+		},
+		{
+			"Name": "Jenna",
+			"LastName": "Hansen",
+			"imgDir": "photos/unassigned/female/JennaHansen.png",
+			"ratings": 987.854083143786
+		},
+		{
+			"Name": "Ella",
+			"LastName": "Freitas",
+			"imgDir": "photos/unassigned/female/EllaFreitas.png",
+			"ratings": 954.8322595741126
+		},
+		{
+			"Name": "Elizabeth",
+			"LastName": "Burget",
+			"imgDir": "photos/unassigned/female/ElizabethBurget.png",
+			"ratings": 945.9148735883275
+		},
+		{
+			"Name": "Bentlee",
+			"LastName": "Keele",
+			"imgDir": "photos/unassigned/female/BentleeKeele.png",
+			"ratings": 1087.8376173228553
+		},
+		{
+			"Name": "Alexis",
+			"LastName": "Larsen",
+			"imgDir": "photos/unassigned/female/AlexisLarsen.png",
+			"ratings": 949.9293447223552
+		},
+		{
+			"Name": "Brnn",
+			"LastName": "Locher",
+			"imgDir": "photos/unassigned/female/BrnnLocher.png",
+			"ratings": 1053.252072948238
+		},
+		{
+			"Name": "Halyn",
+			"LastName": "Ferguson",
+			"imgDir": "photos/unassigned/female/HalynFerguson.png",
+			"ratings": 966.576787138944
+		},
+		{
+			"Name": "Mater",
+			"LastName": "Shep",
+			"imgDir": "photos/unassigned/female/MaterShep.png",
+			"ratings": 943.2171541369244
+		},
+		{
+			"Name": "Maci",
+			"LastName": "James",
+			"imgDir": "photos/unassigned/female/MaciJames.png",
+			"ratings": 875.4245816200197
+		},
+		{
+			"Name": "Paige",
+			"LastName": "Dailey",
+			"imgDir": "photos/unassigned/female/PaigeDailey.png",
+			"ratings": 1032.7017536044095
+		},
+		{
+			"Name": "Kate",
+			"LastName": "Cowley",
+			"imgDir": "photos/unassigned/female/KateCowley.png",
+			"ratings": 1145.323285781942
+		},
+		{
+			"Name": "Camrn",
+			"LastName": "Morre",
+			"imgDir": "photos/unassigned/female/CamrnMorre.png",
+			"ratings": 1013.2406742288638
+		},
+		{
+			"Name": "Watwe",
+			"LastName": "MariaInfante",
+			"imgDir": "photos/unassigned/female/WatweMariaInfante.png",
+			"ratings": 980.1967288426845
+		},
+		{
+			"Name": "Nora",
+			"LastName": "Jackson",
+			"imgDir": "photos/unassigned/female/NoraJackson.png",
+			"ratings": 1089.3494761982954
+		},
+		{
+			"Name": "Samantha",
+			"LastName": "Christensen",
+			"imgDir": "photos/unassigned/female/SamanthaChristensen.png",
+			"ratings": 1115.3806792555524
+		},
+		{
+			"Name": "Serenity",
+			"LastName": "Nguyen",
+			"imgDir": "photos/unassigned/female/SerenityNguyen.png",
+			"ratings": 1098.004594058257
+		},
+		{
+			"Name": "Brooke",
+			"LastName": "Metcalf",
+			"imgDir": "photos/unassigned/female/BrookeMetcalf.png",
+			"ratings": 861.8789246967633
+		},
+		{
+			"Name": "Jane",
+			"LastName": "Taylor",
+			"imgDir": "photos/unassigned/female/JaneTaylor.png",
+			"ratings": 923.2450496331078
+		},
+		{
+			"Name": "Eliza",
+			"LastName": "Manwill",
+			"imgDir": "photos/unassigned/female/ElizaManwill.png",
+			"ratings": 930.008578562734
+		},
+		{
+			"Name": "F",
+			"LastName": "Pets",
+			"imgDir": "photos/unassigned/female/FPets.png",
+			"ratings": 1019.3768978416321
+		},
+		{
+			"Name": "Madelynn",
+			"LastName": "Packer",
+			"imgDir": "photos/unassigned/female/MadelynnPacker.png",
+			"ratings": 925.6003108196054
+		},
+		{
+			"Name": "Brooklyn",
+			"LastName": "Delzer",
+			"imgDir": "photos/unassigned/female/BrooklynDelzer.png",
+			"ratings": 1104.3242593199604
+		},
+		{
+			"Name": "Delaney",
+			"LastName": "Anderson",
+			"imgDir": "photos/unassigned/female/DelaneyAnderson.png",
+			"ratings": 959.1586026097452
+		},
+		{
+			"Name": "Teva",
+			"LastName": "Johnson",
+			"imgDir": "photos/unassigned/female/TevaJohnson.png",
+			"ratings": 1102.7946283567662
+		},
+		{
+			"Name": "Julia",
+			"LastName": "Bergquist",
+			"imgDir": "photos/unassigned/female/JuliaBergquist.png",
+			"ratings": 926.4938011612661
+		},
+		{
+			"Name": "Jane",
+			"LastName": "Smith",
+			"imgDir": "photos/unassigned/female/JaneSmith.png",
+			"ratings": 1029.7519840186408
+		},
+		{
+			"Name": "Elizabeth",
+			"LastName": "Davidson",
+			"imgDir": "photos/unassigned/female/ElizabethDavidson.png",
+			"ratings": 1075.2686584836647
+		},
+		{
+			"Name": "Leeah",
+			"LastName": "Mangum",
+			"imgDir": "photos/unassigned/female/LeeahMangum.png",
+			"ratings": 849.2054218651369
+		},
+		{
+			"Name": "S",
+			"LastName": "KyeJensen",
+			"imgDir": "photos/unassigned/female/SKyeJensen.png",
+			"ratings": 1039.1155809357895
+		},
+		{
+			"Name": "Chloe",
+			"LastName": "Bodell",
+			"imgDir": "photos/unassigned/female/ChloeBodell.png",
+			"ratings": 962.9694822178694
+		},
+		{
+			"Name": "Kendra",
+			"LastName": "Corley",
+			"imgDir": "photos/unassigned/female/KendraCorley.png",
+			"ratings": 962.6717070276432
+		},
+		{
+			"Name": "Samria",
+			"LastName": "Hammon",
+			"imgDir": "photos/unassigned/female/SamriaHammon.png",
+			"ratings": 854.9403368917103
+		},
+		{
+			"Name": "A",
+			"LastName": "DalynCox",
+			"imgDir": "photos/unassigned/female/ADalynCox.png",
+			"ratings": 1072.3859758713954
+		},
+		{
+			"Name": "Calli",
+			"LastName": "Chandler",
+			"imgDir": "photos/unassigned/female/CalliChandler.png",
+			"ratings": 1111.6643639418005
+		},
+		{
+			"Name": "Coltonr",
+			"LastName": "Bennett",
+			"imgDir": "photos/unassigned/female/ColtonrBennett.png",
+			"ratings": 838.0098856197588
+		},
+		{
+			"Name": "Berlin",
+			"LastName": "Cox",
+			"imgDir": "photos/unassigned/female/BerlinCox.png",
+			"ratings": 825.081117233277
+		},
+		{
+			"Name": "Aurora",
+			"LastName": "Silver",
+			"imgDir": "photos/unassigned/female/AuroraSilver.png",
+			"ratings": 951.8644798966433
+		},
+		{
+			"Name": "Alessa",
+			"LastName": "Montoya",
+			"imgDir": "photos/unassigned/female/AlessaMontoya.png",
+			"ratings": 1106.220653288192
+		},
+		{
+			"Name": "Rebecca",
+			"LastName": "Calkin",
+			"imgDir": "photos/unassigned/female/RebeccaCalkin.png",
+			"ratings": 882.6497805635901
+		},
+		{
+			"Name": "D",
+			"LastName": "AnnaMitchell",
+			"imgDir": "photos/unassigned/female/DAnnaMitchell.png",
+			"ratings": 884.9061047660136
+		}
+	]
 }
