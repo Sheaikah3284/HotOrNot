@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Player Rankings</title>
+		<style>
+			body {
+				font-family: Arial, sans-serif;
+				background-color: #222222;
+				color: #ffffff;
+				margin: 0;
+				padding: 0;
+			}
+
+			h1 {
+				text-align: center;
+				color: #ffffff;
+				font-size: 32px;
+				margin: 40px 0;
+				text-transform: uppercase;
+			}
+
+			table {
+				border-collapse: collapse;
+				width: 60%;
+				margin: 20px auto;
+				background-color: #333333;
+				box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+			}
+
+			th,
+			td {
+				border: 1px solid #dddddd;
+				padding: 12px;
+				text-align: left;
+				color: #ffffff;
+			}
+
+			th {
+				background-color: #222222;
+				font-weight: bold;
+			}
+
+			tr:nth-child(even) {
+				background-color: #444444;
+			}
+
+			.shape {
+				width: 200px;
+				height: 200px;
+				background-color: #555555;
+				border-radius: 50%;
+				position: absolute;
+				top: 100px;
+				left: calc(50% - 100px);
+			}
+
+			.text {
+				text-align: center;
+				font-size: 24px;
+				position: absolute;
+				top: 160px;
+				left: calc(50% - 120px);
+			}
+		</style>
+	</head>
+
+	<body>
+		<h1>Player Rankings</h1>
+		<table id="rankingsTable">
+			<tr>
+				<th>Rank</th>
+				<th>Name</th>
+			</tr>
+		</table>
+
+		<script>
+			function getCurrentURL() {
+				return window.location.href;
+			}
+
+			// Example
+			const baseUrl = getCurrentURL();
+
+			fetch(baseUrl + "/getGirlRankings/")
+				.then((response) => response.json())
+				.then((playerData) => {
+					var table = document.getElementById("rankingsTable");
+
+					for (var i = 0; i < playerData.length; i++) {
+						var row = table.insertRow(i + 1);
+						var rankCell = row.insertCell(0);
+						var nameCell = row.insertCell(1);
+
+						rankCell.innerHTML = playerData[i].rank;
+						nameCell.innerHTML = playerData[i].name;
+					}
+				})
+				.catch((error) => {
+					console.error("Error:", error);
+				});
+		</script>
+	</body>
+</html>

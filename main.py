@@ -32,10 +32,15 @@ def rate():
     return flask.jsonify(initRating())
 
 
-@app.route("/getRankings", methods=["GET"])
-def getRankings():
+@app.route("/getRankings/getGirlRankings/", methods=["GET"])
+def getGirlRankings():
     rankings = generate_rankings()
     return flask.jsonify(rankings)
+
+
+@app.route("/getRankings", methods=["GET"])
+def getRankings():
+    return flask.render_template("ranks.html")
 
 
 def run():

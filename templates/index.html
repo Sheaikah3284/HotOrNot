@@ -42,5 +42,12 @@
 				<button class="rightBtn" id="rightBtn">Hotter</button>
 			</div>
 		</div>
+
+		<a id="href" href="" style="color: red">Look at the rankings</a>
+
+		<script>
+			const href = document.getElementById("href");
+			href.href = "{{ url_for('getRankings') }}";
+		</script>
 	</body>
 </html>
