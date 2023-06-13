@@ -1,12 +1,10 @@
 import flask
-from flask_cors import CORS
 
 from rating import startRating as initRating, rate as rateGirls
 from ranking import generate_rankings
 
 app = flask.Flask(__name__)
-CORS(app)  # Enable CORS for all routes
-app.config["DEBUG"] = True
+app.config["PORT"] = 80
 
 
 @app.route('/', methods=['GET'])
@@ -40,4 +38,4 @@ def getRankings():
     return flask.jsonify(rankings)
 
 
-app.run()
+app.run(port=app.config["PORT"])
